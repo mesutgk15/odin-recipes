@@ -1,0 +1,37 @@
+.main-title{
+    background-color: brown;
+    color: rgb(237, 114, 114);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.dishes{
+
+    font-size: 25px;
+    background-color: hsla(200, 65%, 50%, 0.65);
+    color: rgba(100, 30, 30, 0.8)
+}
+
+.img{
+
+    height: auto;
+    width: 34%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.subtitle{
+    background-color: red;
+    color: aliceblue;
+    font-size: 24px;
+}
+
+.plaintext{
+    font-size: 22px;
+}
+
+body{
+    background-color: hsla(60, 75%, 70%, 0.3)
+}
